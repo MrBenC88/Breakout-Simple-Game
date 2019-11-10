@@ -1,4 +1,4 @@
 # Breakout-Simple-Game
 Simple Breakout Game
 
-Uses Java JDK released in 2015.
+Uses Java build that was released in 2015.
